@@ -1,0 +1,10 @@
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.exe
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.csprojAssemblyReference.cache
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.AssemblyInfoInputs.cache
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.AssemblyInfo.cs
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.RazorTargetAssemblyInfo.cache
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.Manifest.cache
+C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.xml
