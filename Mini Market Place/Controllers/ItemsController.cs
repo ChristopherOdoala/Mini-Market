@@ -30,5 +30,53 @@ namespace Mini_Market_Place.Controllers
 
             return Ok(res);
         }
+
+        [HttpGet]
+        public IActionResult GetAllItems()
+        {
+            var res = _itemService.GetAllItems();
+            if (res.ErrorMessages.Any())
+            {
+                return Ok(res.ErrorMessages);
+            }
+
+            return Ok(res);
+        }
+
+        [HttpGet]
+        public IActionResult GetById(Guid id)
+        {
+            var res = _itemService.GetById(id);
+            if (res.ErrorMessages.Any())
+            {
+                return Ok(res.ErrorMessages);
+            }
+
+            return Ok(res);
+        }
+
+        [HttpPost]
+        public IActionResult UpdateItem([FromBody]ItemViewModel model)
+        {
+            var res = _itemService.UpdateItem(model);
+            if (res.ErrorMessages.Any())
+            {
+                return Ok(res.ErrorMessages);
+            }
+
+            return Ok(res);
+        }
+
+        [HttpPost]
+        public IActionResult PurchaseItem(Guid itemId)
+        {
+            var res = _itemService.PurchaseItem(itemId);
+            if (res.ErrorMessages.Any())
+            {
+                return Ok(res.ErrorMessages);
+            }
+
+            return Ok(res);
+        }
     }
 }
