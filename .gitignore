@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Mini Market Place
+/Mini Market Place/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0
+/Mini Market Place/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1
+/Mini Market Place/bin/Debug/netcoreapp3.1/runtimes

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell XPS 15\\source\\repos\\Mini Market Place\\Mini Market Place\\Mini Market Place.csproj": {}
+    "C:\\Users\\Dell XPS 15\\Documents\\My Workspace\\Mini-Market\\Mini Market Place\\Mini Market Place.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell XPS 15\\source\\repos\\Mini Market Place\\Mini Market Place\\Mini Market Place.csproj": {
+    "C:\\Users\\Dell XPS 15\\Documents\\My Workspace\\Mini-Market\\Mini Market Place\\Mini Market Place.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell XPS 15\\source\\repos\\Mini Market Place\\Mini Market Place\\Mini Market Place.csproj",
+        "projectUniqueName": "C:\\Users\\Dell XPS 15\\Documents\\My Workspace\\Mini-Market\\Mini Market Place\\Mini Market Place.csproj",
         "projectName": "Mini Market Place",
-        "projectPath": "C:\\Users\\Dell XPS 15\\source\\repos\\Mini Market Place\\Mini Market Place\\Mini Market Place.csproj",
+        "projectPath": "C:\\Users\\Dell XPS 15\\Documents\\My Workspace\\Mini-Market\\Mini Market Place\\Mini Market Place.csproj",
         "packagesPath": "C:\\Users\\Dell XPS 15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell XPS 15\\source\\repos\\Mini Market Place\\Mini Market Place\\obj\\",
+        "outputPath": "C:\\Users\\Dell XPS 15\\Documents\\My Workspace\\Mini-Market\\Mini Market Place\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -44,6 +44,10 @@
         "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.7, )"
             }

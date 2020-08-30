@@ -13,6 +13,7 @@ namespace Mini_Market_Place.ViewModels
         public string Name { get; set; }
         public string Price { get; set; }
         public string Description { get; set; }
+        public int NoOfAvailableItems { get; set; }
         public string Category { get; set; }
 
         public static implicit operator ItemViewModel(Item model)
@@ -23,9 +24,20 @@ namespace Mini_Market_Place.ViewModels
                 Name = model.Name,
                 Price = model.Price.FormatAmount(),
                 Description = model.Description,
+                NoOfAvailableItems = model.NoOfAvailableItems,
                 Id = model.Id
             };
         }
+
+    }
+
+    public class CreateItemViewModel
+    {
+        public string Name { get; set; }
+        public string Price { get; set; }
+        public string Description { get; set; }
+        public int NoOfAvailableItems { get; set; }
+        public ItemCategory Category { get; set; }
 
     }
 }

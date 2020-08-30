@@ -9,7 +9,7 @@ namespace Mini_Market_Place.Helper
 {
     public class DataContext : DbContext
     {
-        public DataContext(DbContextOptions<DataContext> options) : base(options) { }
+        public DataContext(DbContextOptions options) : base(options) { }
 
         public DbSet<Item> Items { get; set; }
         public DbSet<ItemPurchaseHistory> ItemPurchaseHistories { get; set; }

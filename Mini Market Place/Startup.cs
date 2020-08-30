@@ -5,10 +5,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Mini_Market_Place.Helper;
+using Mini_Market_Place.Services;
 
 namespace Mini_Market_Place
 {
@@ -24,6 +27,12 @@ namespace Mini_Market_Place
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
+            services.AddDbContext<DataContext>(item => item.UseSqlServer(Configuration.GetConnectionString("Default")));
+
+            services.AddScoped<IItemService, ItemService>();
+            services.AddScoped<IItemCategoryService, ItemCategoryService>();
+            services.AddScoped<IItemPurchaseHistoryService, ItemPurchaseHistoryService>();
             services.AddControllers();
         }
 
