@@ -8,14 +8,21 @@ C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\
 C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.RazorTargetAssemblyInfo.cache
 C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.Manifest.cache
 C:\Users\Dell XPS 15\source\repos\Mini Market Place\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.xml
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.exe
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.deps.json
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.runtimeconfig.json
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.runtimeconfig.dev.json
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
@@ -27,23 +34,6 @@ C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\De
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.csprojAssemblyReference.cache
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.AssemblyInfoInputs.cache
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.AssemblyInfo.cs
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.RazorTargetAssemblyInfo.cache
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.csproj.CopyComplete
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.Manifest.cache
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.xml
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.deps.json
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.runtimeconfig.json
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.runtimeconfig.dev.json
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.dll
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.pdb
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
@@ -51,7 +41,9 @@ C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\De
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
@@ -63,8 +55,17 @@ C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\De
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.csprojAssemblyReference.cache
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.AssemblyInfoInputs.cache
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.AssemblyInfo.cs
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.RazorTargetAssemblyInfo.cache
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.csproj.CopyComplete
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.Manifest.cache
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\staticwebassets\Mini Market Place.StaticWebAssets.xml
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.genruntimeconfig.cache
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Mini Market Place.pdb
+C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.csproj.CoreCompileInputs.cache
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.dll
 C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.pdb
-C:\Users\Dell XPS 15\Documents\My Workspace\Mini-Market\Mini Market Place\obj\Debug\netcoreapp3.1\Mini Market Place.genruntimeconfig.cache
